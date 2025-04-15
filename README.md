@@ -48,7 +48,7 @@ Add real-time stock price predictions.
 Fine-tune LSTM hyperparameters for better accuracy.
 
 License
-This project is open-source and available for modification and improvement.
+This project is open-source and available for modification and improvement
 
-Developed by Priyanshu Kundu : )
+Developed by Priyanshu Kundu : ) 
 
